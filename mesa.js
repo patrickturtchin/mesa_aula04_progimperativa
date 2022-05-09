@@ -31,7 +31,7 @@ let idade_cliente5 = 80;
 let peso_cliente5 = 150;
 let altura_cliente5 = 1.70;
 let plano_cliente5 = true;
-let imc_cliente4 = peso_cliente5 /  Math.pow(altura_cliente5, 2);
+let imc_cliente5 = peso_cliente5 /  Math.pow(altura_cliente5, 2);
 
 console.log(nome_cliente1 + " tem " + idade_cliente1 + " anos e seu índice de massa corporal é de " + imc_cliente1.toFixed(2));
 console.log(nome_cliente2 + " tem " + idade_cliente2 + " anos e seu índice de massa corporal é de " + imc_cliente2.toFixed(2));
